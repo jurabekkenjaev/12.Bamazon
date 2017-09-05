@@ -1,0 +1,23 @@
+{
+  "name": "ls",
+  "version": "l",
+  "description": "### Challenge #1: Customer View (Minimum Requirement)",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.2.2",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/jurabekkenjaev/Bamazon.git",
+  "keywords": [],
+  "author": "Jurabek <spiderman1984@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jurabekkenjaev/Bamazon/issues"
+  },
+  "homepage": "https://github.com/jurabekkenjaev/Bamazon#readme"
+}
